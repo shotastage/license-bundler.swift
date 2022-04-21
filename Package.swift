@@ -5,6 +5,10 @@ import PackageDescription
 
 let package = Package(
     name: "LicenseBundleMaker",
+    platforms: [
+        .macCatalyst(.v13),
+        .iOS(.v13),
+    ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
