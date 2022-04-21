@@ -1,3 +1,3 @@
 # LicenseBundleMaker
 
-A description of this package.
+>> Now under construction...
